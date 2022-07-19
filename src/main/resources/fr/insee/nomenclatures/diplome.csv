@@ -1,0 +1,122 @@
+ASSISTANTE DENTAIRE;Assistant(e) dentaire
+BAC GENERAL;Baccalaureat general ( L , S , ES ...  )
+BAC PRO;Baccalaureat professionnel
+BAC PRO AGRICOLE;Baccalaureat professionnel agricole
+BAC TECHNO AGRICOLE;Baccalaureat technologique ou technique agricole ( STAV, STAE, STPA … )
+BAC TECHNO;Baccalaureat technologique ou technique ( STMG, ST2S, STI2D, STD2A, STL , F , G , H …  )
+BACHELOR;Bachelor
+BAPAAT;BAPAAT (Brevet d'Aptitude Professionnelle Assistant Animateur Technicien)
+BEATEP;BEATEP (Brevet d'Etat Animateur Technicien Education Populaire)
+BPJEPS;BEES 1er degre (Brevet d'Etat d'Educateur Sportif niveau 4)
+DESJEPS;BEES 2eme degre (Brevet d'Etat d'Educateur Sportif niveau 2)
+BEES 3EME DEGRE;BEES 3eme degre (Brevet d'Etat d'Educateur Sportif niveau 1)
+BEP;BEP ( Brevet d'Etudes Professionnelles )
+BEPA;BEPA ( Brevet d'Etudes Professionnelles Agricole )
+BM;BM (Brevet de Maitrise)
+BMA;BMA (Brevet des Metiers d'Art)
+BP;BP (Brevet Professionnel)
+BPA;BP A ( ou BPA Brevet Professionnel Agricole )
+BPJEPS;BPJEPS (BP Jeunesse, Education Populaire et Sport)
+BREVET COMPAGNON;Brevet Compagnon
+BT;BT ( Brevet de Technicien )
+BTA;BT A ( ou BTA, Brevet de Technicien Agricole )
+BTM;BTM (Brevet Technique des Metiers)
+BTS;BTS ( Brevet de Technicien Superieur )
+BTSA ;BTSA ( BTS Agricole )
+CAFAD;CAFAD (aide a domicile)
+CAFDES;CAFDES (Directeur Etablissement Social)
+CAP;CAP ( Certificat d'Aptitude Professionnelle )
+CAPA;CAPA ( CAP agricole )
+CAPACITE DROIT;Capacite en droit
+CEP;CEP ( Certificat fin d'Etudes Primaires )
+INSTITUTEUR;Certificat d'Aptitude Pedagogique ( instituteur, CFEN  )
+ORTHOPHONISTE;Certificat de capacite d'orthophoniste
+CFG;CFG ( Certificat de Formation Generale )
+AGREGATION;Concours d'agregation
+CAPE;Concours de professeur des ecoles / enseignant du primaire ( CRPE, CAPE )
+CAPES;Concours d'enseignant du secondaire ( CAPES, CAFEP, CAPEPS, CAPET … )
+DAEU LITTERAIRE;DAEU ( Diplome d'Acces aux Etudes Universitaires ) option Litteraire
+DAEU SCIENTIFIQUE;DAEU (Diplome d'Acces aux Etudes Universitaires ) option Scientifique
+DCG;DCG (Diplome de Comptabilite et de Gestion)
+DEA;DEA ( Diplome d'Etudes Approfondies )
+EXPERT COMPTABLE;DEC (Diplome d'Expertise Comptable)
+DEDPAD;DEDPAD ( DE Directeur Projet Animation Developpement )
+DEJEPS;DEJEPS ( DE Jeunesse, Education Populaire et Sport)
+DESJEPS;DESJEPS ( DE Superieur Jeunesse, Education Populaire et Sport )
+DESS;DESS ( Diplome d'Etudes Superieures Specialisees )
+DEUG;DEUG
+DEUST;DEUST
+DSTS;DSTS ( Diplome Supérieur en Travail Social )
+AVOCAT;Diplome d'avocat ( Certificat d'Aptitude à la Profession d'Avocat )
+DIPLOME CFJ JOURNALISTE;Diplome de journaliste de niveau 1 ( CFJ , EJT , ESJ , IPG )
+DIPLOME JOURNALISTE;Diplome de journaliste de niveau 2
+DIPLOME INGENIEUR;Diplome de grande ecole d’ingenieur ( Polytechnique, Mines, Ponts, Centrale, Supelec… )
+ECOLE SUPERIEURE COMMERCE;Diplome de grande ecole de commerce  ( HEC, ESSEC, ESCP… )
+MAGISTRAT;Diplome de magistrat (Ecole Nationale de la Magistrature)
+NOTAIRE;Diplome de notaire, diplome superieur du notariat
+ACCOMPAGNANT EDUCATIF SOCIAL;Diplome d'Etat ( DE ) accompagnant educatif et social ( DEAES )
+AIDE MEDICO PSYCHOLOGIQUE;Diplome d'Etat ( DE ) aide medico-psychologique
+DE AIDE SOIGNANT;Diplome d'Etat ( DE ) aide-soignant
+AMBULANCIER;Diplome d'Etat ( DE ) ambulancier
+ARCHITECTE;Diplome d'Etat ( DE ) architecte, HMONP (Habilitation Maitrise d'Oeuvre en son Nom Propre)
+ASSISTANT SERVICE SOCIAL;Diplome d'Etat ( DE ) assistant de service social
+DE ASSISTANT FAMILIAL;Diplome d'Etat ( DE ) assistant familial ( DEAF )
+AUXILIAIRE PUERICULTURE;Diplome d'Etat ( DE ) auxiliaire de puericulture
+DEAVS;Diplome d'Etat ( DE ) auxiliaire de vie sociale ( DEAVS )
+CONSEILLER ECONOMIE SOCIALE FAMILIALE;Diplome d'Etat ( DE ) conseiller en economie sociale familiale ( DECESF )
+EDUCATEUR JEUNES ENFANTS;Diplome d'Etat ( DE ) educateur jeunes enfants ( DEJE )
+EDUCATEUR SPECIALISE;Diplome d'Etat ( DE ) educateur specialise ( DEES )
+ERGOTHERAPEUTE;Diplome d'Etat ( DE ) ergotherapeute
+INFIRMIER;Diplome d'Etat ( DE ) Infirmier (soins generaux, puericulture ou bloc operatoire)
+IADE;Diplome d'Etat ( DE ) Infirmier Anesthesiste
+DE INGENIERIE SOCIALE;Diplome d'Etat ( DE ) Ingenierie Sociale ( DEIS )
+KINESITHERAPEUTE;Diplome d'Etat ( DE ) masseur kinesitherapeute
+MONITEUR EDUCATEUR;Diplome d'Etat ( DE ) moniteur educateur ( DEME )
+DE PSYCHOMOTRICIEN;Diplome d'Etat ( DE ) psychomotricien
+SAGE FEMME;Diplome d'Etat ( DE ) sage femme
+TECHNICIEN LABORATOIRE MEDICAL;Diplome d'Etat ( DE ) technicien de laboratoire medical, d'analyses biomedicales
+TECHNICIEN INTERVENTION SOCIALE FAMILIALE;Diplome d'Etat ( DE ) technicien d'intervention sociale et familiale ( DETISF )
+DENTAIRE;Diplome d'Etat de docteur en chirurgie dentaire / dentiste
+MEDECINE;Diplome d'Etat de docteur en medecine (generaliste ou specialiste)
+DENTAIRE;Diplome d'Etat de docteur en odontologie
+PHARMACIE;Diplome d'Etat de docteur en pharmacie
+VETERINAIRE;Diplome d'Etat de veterinaire
+DIPLOME ENA;Diplome d'administrateur civil ( ENA , Ecole Nationale d'Administration)
+DIPLOME NORMALE SUP LETTRES;Diplome ENS lettres (Normale Sup, DENS lettres)
+DIPLOME NORMALE SUP;Diplome ENS sciences (Normale Sup, DENS sciences)
+DFA SCIENCES MAIEUTIQUES;Diplome Formation Approfondie Sciences Maieutiques ( DFASMa )
+DFA SCIENCES MEDICALES;Diplome Formation Approfondie Sciences Medicales ( DFASM )
+DFA SCIENCES ODONTOLOGIQUES;Diplome Formation Approfondie Sciences Odontologiques ( DFASO )
+DFA SCIENCES PHARMACEUTIQUES;Diplome Formation Approfondie Sciences Pharmaceutiques ( DFASP )
+DFG SCIENCES MAIEUTIQUES;Diplome Formation Generale Sciences Maieutiques ( DFGSMa )
+DFG SCIENCES MEDICALES;Diplome Formation Generale Sciences Medicales ( DFGSM )
+DFG SCIENCES ODONTOLOGIQUES;Diplome Formation Generale Sciences Odontologiques ( DFGSO )
+DFG SCIENCES PHARMACEUTIQUES;Diplome Formation Generale Sciences Pharmaceutiques ( DFGSP )
+DMA;DMA (Diplome des Metiers d'Art)
+DNAP;DNA (Diplome National d'Art), DNAP, DNAT
+DNB;DNB ( Diplome National du Brevet ), brevet des colleges, BEPC
+DNSEP;DNSEP (Diplome National Superieur d'Expression Plastique)
+DOCTEUR;Doctorat de recherche ( these )
+DSAA;DSAA (Diplome Superieur des Arts Appliques)
+DSCG;DSCG (Diplome Supérieur de Comptabilite et de Gestion)
+DUT;DUT ( Diplome Universitaire de Technologie )
+ESEU LITTERAIRE;ESEU (Examen Special d’Acces aux Etudes Universitaires ) litteraire
+ESEU SCIENTIFIQUE;ESEU (Examen Special d’Acces aux Etudes Universitaires ) scientifique
+LICENCE;Licence
+LICENCE PRO;Licence professionnelle
+MAGISTERE;Magistere
+MAITRISE;Maitrise ( Master 1, M1 )
+MASTER;Master ( Master 2, M2 )
+MSC;Master of Sciences ( label CGE MSc )
+MASTER PRO;Master professionnel ( Master 2, M2 )
+MASTER RECHERCHE;Master recherche ( Master 2, M2 )
+MASTERE SPECIALISE;Mastere specialise ( label CGE )
+MBA;MBA ( Master of Business Administration )
+MC4;MC ( Mention Complementaire ) post BacPro
+MC5;MC ( Mention complementaire ) post CAP/BEP
+MST;MST ( Maitrise Sciences et Techniques)
+TH1;TP (Titre professionnel) ou autre titre RNCP de niveau 1 ( bac+5 ou plus )
+TH2;TP (Titre professionnel) ou autre titre RNCP de niveau 2 ( bac+3 ou bac+4 )
+TH3;TP (Titre professionnel) ou autre titre RNCP de niveau 3 ( bac+2 )
+TH4;TP (Titre professionnel) ou autre titre RNCP de niveau 4 ( bac )
+TH5;TP (Titre professionnel) ou autre titre RNCP de niveau 5 ( CAP )

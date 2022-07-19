@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration>
+
+	<Appenders>
+		<File name="fichier" fileName="/var/lib/tomcat8/logs/melauto.log">
+			<!--<param name="encoding" value="UTF-8"/> -->
+			<!--<ThresholdFilter level="DEBUG"/> -->
+			<PatternLayout>
+				<pattern>%d %-5p - %x - %c{1} - %m%n</pattern>
+			</PatternLayout>
+		</File>
+		<Console name="console">
+			<PatternLayout>
+				<pattern>%d %-5p - %x - %c{1} - %m%n</pattern>
+			</PatternLayout>
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="org.springframework" level="INFO">
+			<AppenderRef ref="fichier" />
+			<AppenderRef ref="console" />
+		</Logger>
+		<Logger name="melopee" level="INFO">
+			<AppenderRef ref="fichier" />
+			<AppenderRef ref="console" />
+		</Logger>
+		<Root level="INFO">
+			<AppenderRef ref="console" />
+		</Root>
+	</Loggers>
+</Configuration>
